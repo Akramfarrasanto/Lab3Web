@@ -37,3 +37,28 @@
 <img width="960" alt="Kode menggambungkan sel data" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/2d792c79-255a-4ddd-8bcf-43d34bc3ea20">
 
 <img width="960" alt="Hasil dari menggambungkan sel data" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/b81e9b06-1f98-4d82-b402-564695945b01">
+
+## lab3_form.html
+<img width="960" alt="kode membuat form" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/b61f3340-2373-4790-9881-dd66ad73d11b">
+
+<img width="960" alt="Hasil membuat from" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/705f17ff-02c0-4920-9ac2-3ca0aaa2c346">
+
+<img width="960" alt="Kode membuat form 2" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/23dac136-d951-4bf4-9edc-9922f305dbb4">
+
+<img width="960" alt="Hasil membuat from 2" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/4da7232d-bebd-4007-ab78-8e1a0e789708">
+
+<img width="960" alt="Kode membuat from 3" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/e00e222a-285e-4861-9f74-99cf37b0dc3d">
+
+<img width="960" alt="Hasil membuat from 3" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/59ed8b44-f0c4-4a08-ba09-61c1358b3b87">
+
+# Pertanyaan dan Tugas
+## 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+### Dropdown
+<img width="960" alt="Gambar 5" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/92170957-2cc9-4878-94b9-366e0f2b7200">
+
+<img width="960" alt="Gambar 6" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/b2c8408e-9ffd-4c8e-881e-5773d83261b7">
+
+### Listbox
+<img width="960" alt="Gambar 7" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/8bbc7e88-fccc-4cbf-9869-54754b85d341">
+
+<img width="960" alt="Gambar 8" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/9efff5a9-9a9c-44ec-94f3-1d500000852a">
