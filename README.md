@@ -53,12 +53,13 @@
 
 # Pertanyaan dan Tugas
 ## 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-### Dropdown
+
+## Dropdown
 <img width="960" alt="Gambar 5" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/92170957-2cc9-4878-94b9-366e0f2b7200">
 
 <img width="960" alt="Gambar 6" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/b2c8408e-9ffd-4c8e-881e-5773d83261b7">
 
-### Listbox
+## Listbox
 <img width="960" alt="Gambar 7" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/8bbc7e88-fccc-4cbf-9869-54754b85d341">
 
 <img width="960" alt="Gambar 8" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/9efff5a9-9a9c-44ec-94f3-1d500000852a">
