@@ -57,9 +57,10 @@
 ## Dropdown
 <img width="960" alt="Gambar 5" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/92170957-2cc9-4878-94b9-366e0f2b7200">
 
-<img width="960" alt="Gambar 6" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/b2c8408e-9ffd-4c8e-881e-5773d83261b7">
+<img width="960" alt="Gambar 8" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/316c9f30-9a7d-430a-98db-11b4ae524103">
 
 ## Listbox
 <img width="960" alt="Gambar 7" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/8bbc7e88-fccc-4cbf-9869-54754b85d341">
 
-<img width="960" alt="Gambar 8" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/9efff5a9-9a9c-44ec-94f3-1d500000852a">
+<img width="960" alt="Gambar 8" src="https://github.com/Akramfarrasanto/Lab3Web/assets/115552876/d7005389-35b1-4d77-a931-37c776a778fe">
+
